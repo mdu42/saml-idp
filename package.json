@@ -23,7 +23,7 @@
   },
   "bin": "./bin/run.js",
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">=14.0.0"
   },
   "dependencies": {
     "body-parser": "~1.19.0",
